@@ -1,5 +1,5 @@
 # ariete-in-test-unit
-test project using ariete with test-unit
+test project that using ariete with test-unit cause NameError
 
 ## usage
 
