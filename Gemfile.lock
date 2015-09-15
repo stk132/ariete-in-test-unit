@@ -1,0 +1,19 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    ariete (1.0.1)
+    power_assert (0.2.4)
+    rake (10.4.2)
+    test-unit (3.1.3)
+      power_assert
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  ariete (= 1.0.1)
+  rake
+  test-unit
+
+BUNDLED WITH
+   1.10.6
